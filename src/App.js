@@ -1,5 +1,5 @@
 import React from "react";
-import OCRDNI from "./OCRDNI";
+import OCRDNI from "./ocrdni";
 
 function App() {
   return (
